@@ -1,0 +1,144 @@
+{
+  "dataset_name": "Synthetic Career Guidance Assessment Dataset",
+  "version": "1.0",
+  "rows_raw_including_injected_duplicates": 2412,
+  "rows_after_duplicate_removal": 2400,
+  "columns": [
+    {
+      "name": "profile_id",
+      "type": "identifier",
+      "description": "Synthetic profile identifier; exclude from ML features."
+    },
+    {
+      "name": "age_group",
+      "type": "categorical",
+      "description": "Broad age band; use cautiously and assess fairness."
+    },
+    {
+      "name": "education_level",
+      "type": "categorical",
+      "description": "Educational background category."
+    },
+    {
+      "name": "experience_stage",
+      "type": "categorical",
+      "description": "Current study/career stage."
+    },
+    {
+      "name": "region_type",
+      "type": "categorical",
+      "description": "Broad region type; exclude if it creates geographic bias."
+    },
+    {
+      "name": "interest_technology",
+      "type": "numeric_1_to_10_raw_or_0_to_1_processed",
+      "description": "Synthetic assessment score."
+    },
+    {
+      "name": "interest_data",
+      "type": "numeric_1_to_10_raw_or_0_to_1_processed",
+      "description": "Synthetic assessment score."
+    },
+    {
+      "name": "interest_problem_solving",
+      "type": "numeric_1_to_10_raw_or_0_to_1_processed",
+      "description": "Synthetic assessment score."
+    },
+    {
+      "name": "interest_creativity",
+      "type": "numeric_1_to_10_raw_or_0_to_1_processed",
+      "description": "Synthetic assessment score."
+    },
+    {
+      "name": "interest_people",
+      "type": "numeric_1_to_10_raw_or_0_to_1_processed",
+      "description": "Synthetic assessment score."
+    },
+    {
+      "name": "interest_helping",
+      "type": "numeric_1_to_10_raw_or_0_to_1_processed",
+      "description": "Synthetic assessment score."
+    },
+    {
+      "name": "aptitude_logical",
+      "type": "numeric_1_to_10_raw_or_0_to_1_processed",
+      "description": "Synthetic assessment score."
+    },
+    {
+      "name": "aptitude_numerical",
+      "type": "numeric_1_to_10_raw_or_0_to_1_processed",
+      "description": "Synthetic assessment score."
+    },
+    {
+      "name": "aptitude_verbal",
+      "type": "numeric_1_to_10_raw_or_0_to_1_processed",
+      "description": "Synthetic assessment score."
+    },
+    {
+      "name": "aptitude_spatial",
+      "type": "numeric_1_to_10_raw_or_0_to_1_processed",
+      "description": "Synthetic assessment score."
+    },
+    {
+      "name": "aptitude_critical_thinking",
+      "type": "numeric_1_to_10_raw_or_0_to_1_processed",
+      "description": "Synthetic assessment score."
+    },
+    {
+      "name": "trait_openness",
+      "type": "numeric_1_to_10_raw_or_0_to_1_processed",
+      "description": "Synthetic assessment score."
+    },
+    {
+      "name": "trait_conscientiousness",
+      "type": "numeric_1_to_10_raw_or_0_to_1_processed",
+      "description": "Synthetic assessment score."
+    },
+    {
+      "name": "trait_extraversion",
+      "type": "numeric_1_to_10_raw_or_0_to_1_processed",
+      "description": "Synthetic assessment score."
+    },
+    {
+      "name": "trait_agreeableness",
+      "type": "numeric_1_to_10_raw_or_0_to_1_processed",
+      "description": "Synthetic assessment score."
+    },
+    {
+      "name": "trait_emotional_stability",
+      "type": "numeric_1_to_10_raw_or_0_to_1_processed",
+      "description": "Synthetic assessment score."
+    },
+    {
+      "name": "skill_programming",
+      "type": "numeric_1_to_10_raw_or_0_to_1_processed",
+      "description": "Synthetic assessment score."
+    },
+    {
+      "name": "skill_data_analysis",
+      "type": "numeric_1_to_10_raw_or_0_to_1_processed",
+      "description": "Synthetic assessment score."
+    },
+    {
+      "name": "skill_research",
+      "type": "numeric_1_to_10_raw_or_0_to_1_processed",
+      "description": "Synthetic assessment score."
+    },
+    {
+      "name": "skill_communication",
+      "type": "numeric_1_to_10_raw_or_0_to_1_processed",
+      "description": "Synthetic assessment score."
+    },
+    {
+      "name": "skill_leadership",
+      "type": "numeric_1_to_10_raw_or_0_to_1_processed",
+      "description": "Synthetic assessment score."
+    },
+    {
+      "name": "recommended_career_domain",
+      "type": "target_label",
+      "description": "Synthetic label generated from the career-profile template used to create the sample."
+    }
+  ],
+  "important_limitation": "All records and labels are synthetic, generated for development/testing. They are not real professional records and cannot validate real-world career suitability."
+}

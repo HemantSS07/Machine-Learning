@@ -1,0 +1,4 @@
+Model,Best_CV_Accuracy,Best_CV_Macro_F1,Best_Parameters
+Gaussian Naive Bayes,0.8765625,0.837823889718835,{'classifier__var_smoothing': 1e-12}
+Logistic Regression,0.9072916666666667,0.830592807459252,"{'classifier__C': 10, 'classifier__class_weight': None, 'classifier__solver': 'lbfgs'}"
+MLP Neural Network,0.9317708333333333,0.822487193979369,"{'classifier__alpha': 0.001, 'classifier__hidden_layer_sizes': (100,), 'classifier__learning_rate_init': 0.01}"

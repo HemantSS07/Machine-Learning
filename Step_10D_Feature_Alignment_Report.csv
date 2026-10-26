@@ -1,0 +1,110 @@
+Question_ID,Section,Proposed_Feature,Mapping_Status,Exists_In_Processed_Dataset,Feature_Group
+Q001,Interest,interest_technology,Proposed,True,Interest
+Q002,Interest,interest_data,Proposed,True,Interest
+Q004,Interest,interest_creativity,Proxy; review,True,Interest
+Q005,Interest,interest_people,Proxy; review,True,Interest
+Q006,Interest,interest_helping,Proxy; review,True,Interest
+Q009,Interest,interest_finance,Proposed; validate against question wording,False,Interest
+Q010,Interest,interest_problem_solving,Proxy; review,True,Interest
+Q011,Aptitude,aptitude_numerical,Answer key supplied,True,Aptitude
+Q012,Aptitude,aptitude_logical,Answer key supplied,True,Aptitude
+Q015,Aptitude,aptitude_critical_thinking,Answer key supplied; review wording,True,Aptitude
+Q021,Personality,trait_teamwork,Proposed new feature; review wording,False,Personality
+Q022,Personality,trait_structure_preference,"Proposed; construct-specific, not a direct Big Five agreeableness measure",False,Personality
+Q023,Personality,trait_extraversion,Leadership proxy; review,True,Personality
+Q024,Personality,trait_conscientiousness,Proposed; review,True,Personality
+Q025,Personality,trait_openness,Proposed; review,True,Personality
+Q026,Personality,trait_emotional_stability,Proposed; review,True,Personality
+Q027,Personality,trait_rule_adherence,Proposed new feature; review wording,False,Personality
+Q029,Personality,trait_analytical_thinking,Proposed new feature; validate construct,False,Personality
+Q030,Personality,trait_adaptability,Proposed new feature; review wording,False,Personality
+Q031,Skills,skill_programming,Proposed,True,Skills
+Q032,Skills,skill_data_analysis,Proposed,True,Skills
+Q033,Skills,skill_design,Proposed new feature; validate wording,False,Skills
+Q034,Skills,skill_finance,Proposed new feature; validate wording,False,Skills
+Q035,Skills,skill_cybersecurity,Proposed new feature; validate wording,False,Skills
+Q036,Skills,skill_leadership,Project management proxy; review,True,Skills
+Q037,Skills,skill_marketing,Proposed new feature; validate wording,False,Skills
+Q038,Skills,skill_legal_policy,Proposed new feature; validate wording,False,Skills
+Q039,Skills,skill_engineering,Proposed new feature; validate wording,False,Skills
+Q040,Skills,skill_research,Proposed,True,Skills
+Q041,Education & Career Preferences,profile_education_level,Proposed profile feature; validate encoding,False,Student profile
+Q042,Education & Career Preferences,profile_academic_field,Proposed profile feature; validate encoding,False,Student profile
+Q043,Education & Career Preferences,profile_academic_performance,Proposed profile feature; validate encoding,False,Student profile
+Q044,Education & Career Preferences,profile_certification_status,Proposed profile feature; validate encoding,False,Student profile
+Q045,Education & Career Preferences,profile_training_duration,Proposed profile feature; validate encoding,False,Student profile
+Q046,Education & Career Preferences,profile_work_experience,Proposed profile feature; validate encoding,False,Student profile
+Q047,Education & Career Preferences,profile_internship_experience,Proposed profile feature; validate encoding,False,Student profile
+Q048,Education & Career Preferences,profile_leadership_experience,Proposed profile feature; validate encoding,False,Student profile
+Q049,Education & Career Preferences,profile_freelance_business_experience,Proposed profile feature; validate encoding,False,Student profile
+Q050,Education & Career Preferences,profile_team_size_experience,Proposed profile feature; validate encoding,False,Student profile
+Q051,Education & Career Preferences,profile_primary_career_motivation,Proposed profile feature; validate encoding,False,Student profile
+Q052,Education & Career Preferences,profile_minimum_salary_expectation,Proposed profile feature; validate encoding,False,Student profile
+Q053,Education & Career Preferences,profile_relocation_willingness,Proposed profile feature; validate encoding,False,Student profile
+Q054,Education & Career Preferences,profile_five_year_goal,Proposed profile feature; validate encoding,False,Student profile
+Q055,Education & Career Preferences,profile_stability_growth_preference,Proposed profile feature; validate encoding,False,Student profile
+Q056,Education & Career Preferences,profile_work_environment,Proposed profile feature; validate encoding,False,Student profile
+Q057,Education & Career Preferences,profile_company_size_preference,Proposed profile feature; validate encoding,False,Student profile
+Q058,Education & Career Preferences,profile_travel_willingness,Proposed profile feature; validate encoding,False,Student profile
+Q059,Education & Career Preferences,profile_work_schedule_preference,Proposed profile feature; validate encoding,False,Student profile
+Q060,Education & Career Preferences,profile_performance_evaluation_preference,Proposed profile feature; validate encoding,False,Student profile
+Q061,Education & Career Preferences,career_pref_software_development_q061,Proposed domain-preference feature; validate scoring,False,Career preference
+Q062,Education & Career Preferences,career_pref_software_development_q062,Proposed domain-preference feature; validate scoring,False,Career preference
+Q063,Education & Career Preferences,career_pref_software_development_q063,Proposed domain-preference feature; validate scoring,False,Career preference
+Q064,Education & Career Preferences,career_pref_software_development_q064,Proposed domain-preference feature; validate scoring,False,Career preference
+Q065,Education & Career Preferences,career_pref_software_development_q065,Proposed domain-preference feature; validate scoring,False,Career preference
+Q066,Education & Career Preferences,career_pref_data_science_q066,Proposed domain-preference feature; validate scoring,False,Career preference
+Q067,Education & Career Preferences,career_pref_data_science_q067,Proposed domain-preference feature; validate scoring,False,Career preference
+Q068,Education & Career Preferences,career_pref_data_science_q068,Proposed domain-preference feature; validate scoring,False,Career preference
+Q069,Education & Career Preferences,career_pref_data_science_q069,Proposed domain-preference feature; validate scoring,False,Career preference
+Q070,Education & Career Preferences,career_pref_data_science_q070,Proposed domain-preference feature; validate scoring,False,Career preference
+Q071,Education & Career Preferences,career_pref_cybersecurity_q071,Proposed domain-preference feature; validate scoring,False,Career preference
+Q072,Education & Career Preferences,career_pref_cybersecurity_q072,Proposed domain-preference feature; validate scoring,False,Career preference
+Q073,Education & Career Preferences,career_pref_cybersecurity_q073,Proposed domain-preference feature; validate scoring,False,Career preference
+Q074,Education & Career Preferences,career_pref_cybersecurity_q074,Proposed domain-preference feature; validate scoring,False,Career preference
+Q075,Education & Career Preferences,career_pref_cybersecurity_q075,Proposed domain-preference feature; validate scoring,False,Career preference
+Q076,Education & Career Preferences,career_pref_ui_ux_design_q076,Proposed domain-preference feature; validate scoring,False,Career preference
+Q077,Education & Career Preferences,career_pref_ui_ux_design_q077,Proposed domain-preference feature; validate scoring,False,Career preference
+Q078,Education & Career Preferences,career_pref_ui_ux_design_q078,Proposed domain-preference feature; validate scoring,False,Career preference
+Q079,Education & Career Preferences,career_pref_ui_ux_design_q079,Proposed domain-preference feature; validate scoring,False,Career preference
+Q080,Education & Career Preferences,career_pref_ui_ux_design_q080,Proposed domain-preference feature; validate scoring,False,Career preference
+Q081,Education & Career Preferences,career_pref_business_management_q081,Proposed domain-preference feature; validate scoring,False,Career preference
+Q082,Education & Career Preferences,career_pref_business_management_q082,Proposed domain-preference feature; validate scoring,False,Career preference
+Q083,Education & Career Preferences,career_pref_business_management_q083,Proposed domain-preference feature; validate scoring,False,Career preference
+Q084,Education & Career Preferences,career_pref_business_management_q084,Proposed domain-preference feature; validate scoring,False,Career preference
+Q085,Education & Career Preferences,career_pref_business_management_q085,Proposed domain-preference feature; validate scoring,False,Career preference
+Q086,Education & Career Preferences,career_pref_healthcare_q086,Proposed domain-preference feature; validate scoring,False,Career preference
+Q087,Education & Career Preferences,career_pref_healthcare_q087,Proposed domain-preference feature; validate scoring,False,Career preference
+Q088,Education & Career Preferences,career_pref_healthcare_q088,Proposed domain-preference feature; validate scoring,False,Career preference
+Q089,Education & Career Preferences,career_pref_healthcare_q089,Proposed domain-preference feature; validate scoring,False,Career preference
+Q090,Education & Career Preferences,career_pref_healthcare_q090,Proposed domain-preference feature; validate scoring,False,Career preference
+Q091,Education & Career Preferences,career_pref_education_research_q091,Proposed domain-preference feature; validate scoring,False,Career preference
+Q092,Education & Career Preferences,career_pref_education_research_q092,Proposed domain-preference feature; validate scoring,False,Career preference
+Q093,Education & Career Preferences,career_pref_education_research_q093,Proposed domain-preference feature; validate scoring,False,Career preference
+Q094,Education & Career Preferences,career_pref_education_research_q094,Proposed domain-preference feature; validate scoring,False,Career preference
+Q095,Education & Career Preferences,career_pref_education_research_q095,Proposed domain-preference feature; validate scoring,False,Career preference
+Q096,Education & Career Preferences,career_pref_digital_marketing_q096,Proposed domain-preference feature; validate scoring,False,Career preference
+Q097,Education & Career Preferences,career_pref_digital_marketing_q097,Proposed domain-preference feature; validate scoring,False,Career preference
+Q098,Education & Career Preferences,career_pref_digital_marketing_q098,Proposed domain-preference feature; validate scoring,False,Career preference
+Q099,Education & Career Preferences,career_pref_digital_marketing_q099,Proposed domain-preference feature; validate scoring,False,Career preference
+Q100,Education & Career Preferences,career_pref_digital_marketing_q100,Proposed domain-preference feature; validate scoring,False,Career preference
+Q101,Education & Career Preferences,career_pref_finance_accounting_q101,Proposed domain-preference feature; validate scoring,False,Career preference
+Q102,Education & Career Preferences,career_pref_finance_accounting_q102,Proposed domain-preference feature; validate scoring,False,Career preference
+Q103,Education & Career Preferences,career_pref_finance_accounting_q103,Proposed domain-preference feature; validate scoring,False,Career preference
+Q104,Education & Career Preferences,career_pref_finance_accounting_q104,Proposed domain-preference feature; validate scoring,False,Career preference
+Q105,Education & Career Preferences,career_pref_finance_accounting_q105,Proposed domain-preference feature; validate scoring,False,Career preference
+Q106,Education & Career Preferences,career_pref_engineering_technology_q106,Proposed domain-preference feature; validate scoring,False,Career preference
+Q107,Education & Career Preferences,career_pref_engineering_technology_q107,Proposed domain-preference feature; validate scoring,False,Career preference
+Q108,Education & Career Preferences,career_pref_engineering_technology_q108,Proposed domain-preference feature; validate scoring,False,Career preference
+Q109,Education & Career Preferences,career_pref_engineering_technology_q109,Proposed domain-preference feature; validate scoring,False,Career preference
+Q110,Education & Career Preferences,career_pref_engineering_technology_q110,Proposed domain-preference feature; validate scoring,False,Career preference
+Q111,Education & Career Preferences,career_pref_creative_arts_media_q111,Proposed domain-preference feature; validate scoring,False,Career preference
+Q112,Education & Career Preferences,career_pref_creative_arts_media_q112,Proposed domain-preference feature; validate scoring,False,Career preference
+Q113,Education & Career Preferences,career_pref_creative_arts_media_q113,Proposed domain-preference feature; validate scoring,False,Career preference
+Q114,Education & Career Preferences,career_pref_creative_arts_media_q114,Proposed domain-preference feature; validate scoring,False,Career preference
+Q115,Education & Career Preferences,career_pref_creative_arts_media_q115,Proposed domain-preference feature; validate scoring,False,Career preference
+Q116,Education & Career Preferences,career_pref_law_public_service_q116,Proposed domain-preference feature; validate scoring,False,Career preference
+Q117,Education & Career Preferences,career_pref_law_public_service_q117,Proposed domain-preference feature; validate scoring,False,Career preference
+Q118,Education & Career Preferences,career_pref_law_public_service_q118,Proposed domain-preference feature; validate scoring,False,Career preference
+Q119,Education & Career Preferences,career_pref_law_public_service_q119,Proposed domain-preference feature; validate scoring,False,Career preference
+Q120,Education & Career Preferences,career_pref_law_public_service_q120,Proposed domain-preference feature; validate scoring,False,Career preference

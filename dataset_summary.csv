@@ -1,0 +1,7 @@
+Metric,Value
+Raw rows (with injected duplicates),2412
+Clean rows,2400
+Columns,27
+Career domains,12
+Missing numeric cells in raw,72
+Duplicate rows injected,12

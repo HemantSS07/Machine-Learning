@@ -1,0 +1,29 @@
+{
+    "project_name": "AI-Powered Career Guidance Platform",
+    "model_type": "VotingClassifier",
+    "prediction_target": "recommended_career_domain",
+    "number_of_features": 25,
+    "number_of_career_domains": 12,
+    "career_domains": [
+        "Business & Management",
+        "Creative Arts & Media",
+        "Cybersecurity",
+        "Data Science & Analytics",
+        "Digital Marketing",
+        "Education & Research",
+        "Engineering & Core Technology",
+        "Finance & Accounting",
+        "Healthcare & Life Sciences",
+        "Law & Public Service",
+        "Software Development",
+        "UI/UX Design"
+    ],
+    "cross_validation_accuracy": 0.8438,
+    "cross_validation_macro_f1": 0.8429,
+    "test_accuracy": 0.8333,
+    "test_macro_f1": 0.8314,
+    "test_multiclass_brier_score": 0.2291,
+    "test_log_loss": 0.4677,
+    "test_ece_10_bins": 0.0733,
+    "scikit_learn_version": "1.9.0"
+}
